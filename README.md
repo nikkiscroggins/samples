@@ -2,7 +2,7 @@
 
 
 ## Freelance Client
-<a href="http://carmelheightsdentistry/">Carmel Heights Dentistry</a>
+<a href="https://carmelheightsdentistry.com/">Carmel Heights Dentistry</a>
 This client I did the complete design, build, and logo design for. 
 
 ## WooCommerce
